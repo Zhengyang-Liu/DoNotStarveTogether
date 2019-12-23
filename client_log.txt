@@ -1,0 +1,441 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 54%
+	Available Physical Memory: 5633m/12247m
+	Available Page File: 14524m/25174m
+	Available Virtual Memory: 3960m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 245k
+	Quota Page Pool Usage: 241k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 19k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 386795
+[00:00:00]: Current time: Mon Dec 23 20:23:35 2019
+
+[00:00:00]: Don't Starve Together: 386795 WIN32_STEAM
+[00:00:00]: Build Date: 4810
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 4508221
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/98766980/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (2280)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:3.84
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (3136)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: could not load ping_cache
+[00:00:01]: Offline user ID: OU_76561198059032708
+[00:00:01]: THREAD - started 'StreamInput' (3944)
+[00:00:01]: SteamID: 76561198059032708
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 专业版
+    version                   10.0.18363
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3701
+  RAM                       
+    megsOfRam                 12288
+  GPU                       
+    name                      NVIDIA GeForce GTX 1080
+    driverDate                20191106000000.000000-000
+    megsOfRam                 4095
+    refreshRate               59
+    videoModeDescription      3840 x 2160 x 4294967296 种颜色
+    driverVersion             26.21.14.4120
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1280,720 - 5/6/5 - -1/-1/-1 - 0
+[00:00:02]: CreateEGLContext: 12 configs found
+[00:00:02]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:02]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:02]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:02]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:02]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:02]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:02]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:02]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:02]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:02]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:02]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:02]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:02]: GLInfo
+[00:00:02]: ~~~~~~
+[00:00:02]: GL_VENDOR: Google Inc.
+[00:00:02]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1080)
+[00:00:02]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:02]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:02]: THREAD - started 'WindowsInputManager' (20296)
+[00:00:02]: OpenGL extensions (19, 19):
+[00:00:02]: GL_ANGLE_depth_texture
+[00:00:02]: GL_ANGLE_framebuffer_blit
+[00:00:02]: GL_ANGLE_framebuffer_multisample
+[00:00:02]: GL_ANGLE_instanced_arrays
+[00:00:02]: GL_ANGLE_pack_reverse_row_order
+[00:00:02]: GL_ANGLE_texture_compression_dxt3
+[00:00:02]: GL_ANGLE_texture_compression_dxt5
+[00:00:02]: GL_ANGLE_texture_usage
+[00:00:02]: GL_ANGLE_translated_shader_source
+[00:00:02]: GL_EXT_read_format_bgra
+[00:00:02]: GL_EXT_robustness
+[00:00:02]: GL_EXT_texture_compression_dxt1
+[00:00:02]: GL_EXT_texture_format_BGRA8888
+[00:00:02]: GL_EXT_texture_storage
+[00:00:02]: GL_OES_get_program_binary
+[00:00:02]: GL_OES_packed_depth_stencil
+[00:00:02]: GL_OES_rgb8_rgba8
+[00:00:02]: GL_OES_standard_derivatives
+[00:00:02]: GL_OES_texture_npot
+[00:00:02]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:02]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:02]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:02]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:02]: GL_MAX_VARYING_VECTORS = 10
+[00:00:02]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:02]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:02]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:02]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:02]: 4 compressed texture formats
+[00:00:02]: texture format 0x83f0
+[00:00:02]: texture format 0x83f1
+[00:00:02]: texture format 0x83f2
+[00:00:02]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:03]: AnimManager initialize: Okay
+[00:00:03]: Buffers initialize: Okay
+[00:00:04]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:04]: GameSpecific initialize: Okay
+[00:00:04]: cGame::StartPlaying
+[00:00:04]: LOADING LUA
+[00:00:04]: DoLuaFile scripts/main.lua
+[00:00:04]: DoLuaFile loading buffer scripts/main.lua
+[00:00:04]:   taskgrouplist:	default	Together	
+[00:00:04]:   taskgrouplist:	classic	Classic	
+[00:00:04]:   taskgrouplist:	cave_default	Underground	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:04]: running main.lua
+	
+[00:00:04]: Could not load modindex	
+[00:00:04]: ModIndex: Beginning normal load sequence.
+	
+[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:08]: LOADING LUA SUCCESS
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: ServerPreferences could not load server_preferences	
+[00:00:09]: bloom_enabled	false	
+[00:00:09]: Could not load saveindex	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: Klump load on boot started.	
+[00:00:09]: Klump files loaded: 	0	
+[00:00:10]: 	Load FE	
+[00:00:12]: 	Load FE: done	
+[00:00:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/blocklist.txt (Failure)
+[00:00:12]: THREAD - started 'FilesExistAsyncThread' (16360)
+[00:00:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/adminlist.txt (Failure)
+[00:00:12]: FilesExistAsyncThread started (14501 files)...
+[00:00:12]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/98766980/client_save/whitelist.txt (Failure)
+[00:00:12]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=CN&lang=schinese&user=76561198059032708	
+[00:00:12]: SimLuaProxy::QueryServer()
+[00:00:12]: Check for write access: TRUE
+[00:00:12]: Check for read access: TRUE
+[00:00:12]: ModIndex: Load sequence finished successfully.	
+[00:00:12]: Reset() returning
+[00:00:14]: [MOTD] Downloading image for box1
+[00:00:17]: [Steam] Auth Session Ticket requested...
+[00:00:18]: [Steam] Got Auth Session Ticket
+[00:00:25]: [200] Account Communication Success (3)
+[00:00:25]: Logging in as KU_opLQk8SF
+[00:00:35]: ... FilesExistAsyncThread complete
+[00:00:46]: saved APP:Klei//DoNotStarveTogether/98766980/client_save/pricing_cache
+[00:00:46]: There is no active event to get the status of.
+[00:00:50]: could not load inventory_cache_prod
+[00:00:51]: saved APP:Klei//DoNotStarveTogether/98766980/client_save/inventory_cache_prod
+[00:00:51]: saved APP:Klei//DoNotStarveTogether/98766980/client_save/inventory_cache_prod_sig
+[00:00:57]: ### Error: Leaked entities in the frontend.	149	
+[00:00:57]: 100025	CancelTipWidget	true	false	100025 - 	
+[00:00:57]: 100001	screenroot	true	false	100001 - 	
+[00:00:57]: 100002	overlayroot	true	false	100002 - 	
+[00:00:57]: 100003	Text	true	false	100003 - 	
+[00:00:57]: 100018	LoadingWidget	true	false	100018 - 	
+[00:01:02]: Getting top mod details...
+[00:01:03]: GOT top mod details...50
+[00:01:04]: FrontendLoadMod	workshop-572538624	
+[00:01:04]: Could not load mod_config_data/modconfiguration_workshop-572538624	
+[00:01:04]: Fontend-Loading mod: workshop-572538624 (Chinese Plus) Version:0.7.6	
+[00:01:04]: Mod: workshop-572538624 (Chinese Plus)	Loading modworldgenmain.lua	
+[00:01:04]: Mod: workshop-572538624 (Chinese Plus)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:05]: FrontendLoadMod	workshop-345692228	
+[00:01:05]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:05]: Fontend-Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:05]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:05]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:05]: FrontendLoadMod	workshop-365119238	
+[00:01:05]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:05]: Fontend-Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:05]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:05]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:05]: Frontend-Unloading mod 'workshop-365119238'.	
+[00:01:06]: FrontendLoadMod	workshop-365119238	
+[00:01:06]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:06]: Fontend-Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:06]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:06]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-714735102	
+[00:01:07]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:01:07]: Fontend-Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:01:07]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:09]: Collecting garbage...
+[00:01:09]: lua_gc took 0.03 seconds
+[00:01:09]: ~ShardLuaProxy()
+[00:01:09]: ~cEventLeaderboardProxy()
+[00:01:09]: ~ItemServerLuaProxy()
+[00:01:09]: ~InventoryLuaProxy()
+[00:01:09]: ~NetworkLuaProxy()
+[00:01:09]: ~SimLuaProxy()
+[00:01:09]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:09]: lua_close took 0.04 seconds
+[00:01:09]: ReleaseAll
+[00:01:09]: ReleaseAll Finished
+[00:01:09]: cGame::StartPlaying
+[00:01:09]: LOADING LUA
+[00:01:09]: DoLuaFile scripts/main.lua
+[00:01:09]: DoLuaFile loading buffer scripts/main.lua
+[00:01:10]:   taskgrouplist:	default	Together	
+[00:01:10]:   taskgrouplist:	classic	Classic	
+[00:01:10]:   taskgrouplist:	cave_default	Underground	
+[00:01:10]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:10]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:10]: running main.lua
+	
+[00:01:10]: loaded modindex	
+[00:01:10]: ModIndex: Beginning normal load sequence.
+	
+[00:01:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-572538624	
+[00:01:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:01:10]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:10]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:10]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:10]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:10]: Could not load mod_config_data/modconfiguration_workshop-572538624	
+[00:01:10]: Loading mod: workshop-572538624 (Chinese Plus) Version:0.7.6	
+[00:01:10]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:01:10]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:01:10]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:10]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:10]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:01:10]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:01:10]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:01:10]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:01:10]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:01:10]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:01:10]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:01:10]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:10]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:01:10]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:01:10]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:10]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:10]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:01:10]: Mod: workshop-572538624 (Chinese Plus)	Loading modworldgenmain.lua	
+[00:01:10]: Mod: workshop-572538624 (Chinese Plus)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:10]: Mod: workshop-572538624 (Chinese Plus)	Loading modmain.lua	
+[00:01:10]: [Chinese Plus] 从 steam 获取语言!	
+[00:01:10]: [Chinese Plus] 强制创建世界开启汉化mod	
+[00:01:10]: modimport: ../mods/workshop-572538624/chs_fix.lua	
+[00:01:10]: [Chinese Plus] 汉化修复完成	
+[00:01:10]: modimport: ../mods/workshop-572538624/mod_info.lua	
+[00:01:10]: modimport: ../mods/workshop-572538624/mod_info/chs/375859599	
+[00:01:10]: modimport: ../mods/workshop-572538624/mod_info/chs/365119238	
+[00:01:10]: modimport: ../mods/workshop-572538624/mod_info/chs/345692228	
+[00:01:10]: [Chinese Plus] 汉化MOD选项完成	
+[00:01:10]: [Chinese Plus] 汉化MOD选项函数正常加载	
+[00:01:10]: [Chinese Plus] 汉化MOD函数正常加载	
+[00:01:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:11]: LOADING LUA SUCCESS
+[00:01:11]: PlayerDeaths could not load morgue	
+[00:01:11]: PlayerHistory could not load player_history	
+[00:01:11]: ServerPreferences could not load server_preferences	
+[00:01:11]: bloom_enabled	false	
+[00:01:11]: Could not load saveindex	
+[00:01:11]: OnFilesLoaded()	
+[00:01:11]: OnUpdatePurchaseStateComplete	
+[00:01:11]: Klump load on boot started.	
+[00:01:11]: Klump files loaded: 	0	
+[00:01:11]: 	Unload BE	
+[00:01:11]: 	Unload BE done	
+[00:01:13]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:01:13]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:01:13]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:01:13]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:01:13]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:01:13]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:01:13]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:01:13]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:01:13]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:01:13]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:01:13]: Mod: workshop-572538624 (Chinese Plus)	Registering prefabs	
+[00:01:13]: Mod: workshop-572538624 (Chinese Plus)	  Registering default mod prefab	
+[00:01:13]: 	Load FE	
+[00:01:13]: 	Load FE: done	
+[00:01:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/blocklist.txt (Failure)
+[00:01:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/adminlist.txt (Failure)
+[00:01:13]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/98766980/client_save/whitelist.txt (Failure)
+[00:01:13]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=CN&lang=schinese&user=76561198059032708	
+[00:01:13]: SimLuaProxy::QueryServer()
+[00:01:13]: Check for write access: TRUE
+[00:01:13]: Check for read access: TRUE
+[00:01:13]: ModIndex: Load sequence finished successfully.	
+[00:01:13]: Reset() returning
+[00:01:15]: [MOTD] Downloading image for box1
+[00:01:18]: [200] Account Communication Success (6)
+[00:01:18]: Received (KU_opLQk8SF) from TokenPurpose
+[00:01:18]: [Steam] Auth Session Ticket requested...
+[00:01:18]: [Steam] Got Auth Session Ticket
+[00:01:18]: There is no active event to get the status of.
+[00:01:19]: loaded inventory_cache_prod
+[00:01:21]: loaded inventory_cache_prod
+[00:01:22]: Collecting garbage...
+[00:01:22]: lua_gc took 0.03 seconds
+[00:01:22]: ~ShardLuaProxy()
+[00:01:22]: ~cEventLeaderboardProxy()
+[00:01:22]: ~ItemServerLuaProxy()
+[00:01:22]: ~InventoryLuaProxy()
+[00:01:22]: ~NetworkLuaProxy()
+[00:01:22]: ~SimLuaProxy()
+[00:01:22]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:23]: lua_close took 0.04 seconds
+[00:01:23]: ReleaseAll
+[00:01:23]: ReleaseAll Finished
+[00:01:23]: cGame::StartPlaying
+[00:01:23]: LOADING LUA
+[00:01:23]: DoLuaFile scripts/main.lua
+[00:01:23]: DoLuaFile loading buffer scripts/main.lua
+[00:01:23]: Translator:LoadPOFile - loading file: scripts/languages/chinese_s.po	
+[00:01:24]:   taskgrouplist:	default	联机版	
+[00:01:24]:   taskgrouplist:	classic	经典	
+[00:01:24]:   taskgrouplist:	cave_default	地下	
+[00:01:24]:   taskgrouplist:	lavaarena_taskset	熔炉	
+[00:01:24]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:01:24]: running main.lua
+	
+[00:01:24]: unloading prefabs for mod MOD_workshop-365119238	
+[00:01:24]: unloading prefabs for mod MOD_workshop-714735102	
+[00:01:24]: unloading prefabs for mod MOD_workshop-345692228	
+[00:01:24]: unloading prefabs for mod MOD_workshop-572538624	
+[00:01:24]: loaded modindex	
+[00:01:24]: ModIndex: Beginning normal load sequence.
+	
+[00:01:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-572538624	
+[00:01:24]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:01:24]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:24]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:24]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:24]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:24]: Could not load mod_config_data/modconfiguration_workshop-572538624	
+[00:01:24]: Loading mod: workshop-572538624 (Chinese Plus) Version:0.7.6	
+[00:01:24]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:01:24]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:01:24]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:24]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:24]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:01:24]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:01:24]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:01:24]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:01:24]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:01:24]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:01:24]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:01:24]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:24]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:01:24]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:01:24]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:24]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:24]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:01:24]: Mod: workshop-572538624 (Chinese Plus)	Loading modworldgenmain.lua	
+[00:01:24]: Mod: workshop-572538624 (Chinese Plus)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:24]: Mod: workshop-572538624 (Chinese Plus)	Loading modmain.lua	
+[00:01:24]: [Chinese Plus] 从 steam 获取语言!	
+[00:01:24]: [Chinese Plus] 强制创建世界开启汉化mod	
+[00:01:24]: modimport: ../mods/workshop-572538624/chs_fix.lua	
+[00:01:24]: [Chinese Plus] 汉化修复完成	
+[00:01:24]: modimport: ../mods/workshop-572538624/mod_info.lua	
+[00:01:24]: modimport: ../mods/workshop-572538624/mod_info/chs/375859599	
+[00:01:24]: modimport: ../mods/workshop-572538624/mod_info/chs/365119238	
+[00:01:24]: modimport: ../mods/workshop-572538624/mod_info/chs/345692228	
+[00:01:24]: [Chinese Plus] 汉化MOD选项完成	
+[00:01:24]: [Chinese Plus] 汉化MOD选项函数正常加载	
+[00:01:24]: [Chinese Plus] 汉化MOD函数正常加载	
+[00:01:25]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:01:25]: LOADING LUA SUCCESS
+[00:01:25]: PlayerDeaths could not load morgue	
+[00:01:25]: PlayerHistory could not load player_history	
+[00:01:25]: ServerPreferences could not load server_preferences	
+[00:01:25]: bloom_enabled	false	
+[00:01:25]: Could not load saveindex	
+[00:01:25]: OnFilesLoaded()	
+[00:01:25]: OnUpdatePurchaseStateComplete	
+[00:01:25]: Klump load on boot started.	
+[00:01:25]: Klump files loaded: 	0	
+[00:01:25]: 	FE assets already loaded	
+[00:01:27]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:01:27]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:01:27]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:01:27]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:01:27]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:01:27]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:01:27]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:01:27]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:01:27]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:01:27]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:01:27]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:01:27]: Mod: workshop-572538624 (Chinese Plus)	Registering prefabs	
+[00:01:27]: Mod: workshop-572538624 (Chinese Plus)	  Registering default mod prefab	
+[00:01:27]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/blocklist.txt (Failure)
+[00:01:27]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/98766980/client_save/adminlist.txt (Failure)
+[00:01:27]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/98766980/client_save/whitelist.txt (Failure)
+[00:01:27]: [MOTD] Downloading info from	https://motd.klei.com/?game=dst&platform=STEAM&locale=CN&lang=schinese&user=76561198059032708	
+[00:01:27]: SimLuaProxy::QueryServer()
+[00:01:27]: Check for write access: TRUE
+[00:01:27]: Check for read access: TRUE
+[00:01:27]: ModIndex: Load sequence finished successfully.	
+[00:01:27]: Reset() returning
+[00:01:29]: [MOTD] Downloading image for box1
